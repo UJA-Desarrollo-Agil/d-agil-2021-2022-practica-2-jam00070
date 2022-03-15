@@ -16,13 +16,16 @@ Creado por Javier Ávalos Monroy jam00070.
 * [Conexión entre Trello y Telegram](#conexion_trello)
 * [Evolución del tablero de Trello](#evolucion)
 
-<a namce="enlaces"></a>
+<a name="enlaces"></a>
 ##Enlaces
 
 URL DEL TABLERO
 https://trello.com/invite/b/MA33Zi4e/268937ecc288cb672c71971e78f54a89/practica2
+
 Correo: jam00070@red.ujaen.es
+
 GitHub: https://github.com/UJA-Desarrollo-Agil/d-agil-2021-2022-practica-2-jam00070.git
+
 Telegram: @javiiavalos10
 
 
