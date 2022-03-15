@@ -8,7 +8,7 @@ Creado por Javier Ávalos Monroy jam00070.
 
 
 ## Índice
-* [Enlaces] (#enlaces)
+* [Enlaces](#enlaces)
 * [Descripción](#descripcion)
 * [Diagrama de flujo](#diagrama)
 * [Diseño](#diseno)
@@ -17,7 +17,7 @@ Creado por Javier Ávalos Monroy jam00070.
 * [Evolución del tablero de Trello](#evolucion)
 
 <a name="enlaces"></a>
-##Enlaces
+## Enlaces
 
 URL DEL TABLERO
 https://trello.com/invite/b/MA33Zi4e/268937ecc288cb672c71971e78f54a89/practica2
