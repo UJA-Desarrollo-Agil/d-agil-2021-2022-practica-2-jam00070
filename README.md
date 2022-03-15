@@ -8,7 +8,7 @@ Creado por Javier Ávalos Monroy jam00070.
 
 
 ## Índice
-* [Enlaces] (#enlaces)
+* [Enlaces](#enlaces)
 * [Descripción](#descripcion)
 * [Diagrama de flujo](#diagrama)
 * [Diseño](#diseno)
@@ -17,7 +17,7 @@ Creado por Javier Ávalos Monroy jam00070.
 * [Evolución del tablero de Trello](#evolucion)
 
 <a name="enlaces"></a>
-##Enlaces
+## Enlaces
 
 URL DEL TABLERO
 https://trello.com/invite/b/MA33Zi4e/268937ecc288cb672c71971e78f54a89/practica2
@@ -54,8 +54,10 @@ ___Vista principal___: Vista de la historia al comienzo.
 
 El personaje puede cambiar su motivación en la historia, cuando sale a jugar salen sus estadísticas / atributos y además aparece una descripción.
 
-![Parece que la carga de la imagen ha fallado](/imagenes/izquieda.png "Quien eres")
+![Parece que la carga de la imagen ha fallado](/imagenes/izquierda.png "Quien eres")
+
 ![Parece que la carga de la imagen ha fallado](/imagenes/derecha.png "Personaje")
+
 <a name="conexion_git"></a>
 ## Conexión entre Github y Telegram
 
@@ -76,14 +78,17 @@ Captura de pantalla con la conexión realizada desde Telegram con el tablero de 
 
 A continuación, se muestran diferentes capturas de pantalla con el proceso evolutivo que ha tenido el tablero de Trello mientras se resolvía la práctica.
 
-___Tablero al comienzo de la práctica___:
+___Tablero al inicio___:
+
 ![Parece que la carga de la imagen ha fallado](/imagenes/inicio.png "Tablero al inicio")
 
 ___Tablero despues de dos semanas de trabajo___:
+
 ![Parece que la carga de la imagen ha fallado](/imagenes/medio.png "Tablero despues de dos semanas de trabajo")
 
 
 ___Tablero al finalizar la práctica___:
+
 ![Parece que la carga de la imagen ha fallado](/imagenes/final.png "Tablero al finalizar")
 
 
